@@ -556,3 +556,6 @@ At this stage I'll be making a commit with message `build: implement storybook`.
 This project is largely inspired by [Alex Eagleson's work](https://github.com/alexeagleson?tab=overview&from=2023-12-01&to=2023-12-26), with most of the code adapted from their repository. I have incorporated the latest changes and updates. 
 
 ---
+check out his youtube video from where I learn [YouTube](https://www.youtube.com/watch?v=46V478kPL3A&t=4793s&ab_channel=AlexEagleson)
+
+---
